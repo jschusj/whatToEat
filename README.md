@@ -1,2 +1,2 @@
-- 今天吃啥
+- [今天吃啥](http://qunamaia.com/whatToEat)
 - 公号：白菜好券
